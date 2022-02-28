@@ -1,0 +1,417 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short reply to M. L'Estrange's Short answer to a litter of libels in a letter to a friend</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93221</idno>
+            <idno type="STC">Wing S3623A</idno>
+            <idno type="STC">ESTC R43926</idno>
+            <idno type="EEBO-CITATION">42476340</idno>
+            <idno type="OCLC">ocm 42476340</idno>
+            <idno type="VID">151333</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93221)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151333)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2255:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short reply to M. L'Estrange's Short answer to a litter of libels in a letter to a friend</title>
+                  <author>Doggrel, Philo, pseud.</author>
+                  <author>Philo Doggrel, pseud.</author>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year 1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First edition?</note>
+                  <note>Signatures: A⁴, B².</note>
+                  <note>Signed: Philo Doggrel [pseud.]</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>L'Estrange, Roger, --  Sir, 1616-1704. --  Short answer to a whole litter of libellers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151333:1" rendition="simple:additions"/>
+            <p>A Short REPLY TO M. L'Eſtrange's ſhort Anſwer TO A Litter of
+Libels In a Letter to a FRIEND.</p>
+            <q>
+               <hi>Impar Congreſſu.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151333:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:151333:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>FInding the other day in wet ſheets, a Pamphlet owned by Mr.
+<hi>L'Eſtrange,</hi> called a ſhort anſwer to a whole <hi>Litter of
+Libels;</hi> my wonted Curioſity provoked me to read the diſcourſe, in
+which I found him ſo far tranſ<g ref="char:EOLhyphen"/>ported with Paſſion as to let great
+undecencies fall from his Pen, and upon peruſal I found that which put him
+into ſuch raving fits, to be chiefly a Dialogue between <hi>Tom Piper</hi>
+and Capt. <hi>Crack-brains,</hi> An anſwer to <hi>Cit,</hi> and
+<hi>Bumpkin,</hi> which now at laſt it ſeems he owns, though for ſome
+weighty reaſons I ſup<g ref="char:EOLhyphen"/>poſe he was pleaſed not to ſet his name to it
+at the firſt publiſh<g ref="char:EOLhyphen"/>ing: for the reſt though of ill and Treaſonable
+conſequence to the government, are only named like a Catalogue of Books, and
+paſſed by without any notice, but only treaſured up by him againſt the
+day of wrath, which he hopes will entitle him to the Office of
+Clapſhouldering the Authours and Publiſh<g ref="char:EOLhyphen"/>ers hereafter: a ſpecial employ
+for his Grandeur; but it ſeems they did not then diſturb the Gentleman,
+which occa<g ref="char:EOLhyphen"/>ſioned that Sedateneſs towards them. Really Sir, it is a great
+overſight, that the State doth not take notice of men of ſuch parts, as to
+give them employs to take their time up in nobler affairs than perpetual
+ſcribling: For though they do well in their kind, yet at laſt they write
+themſelves out, as I could give many inſtances.</p>
+            <p>
+               <pb n="2" facs="tcp:151333:3" rendition="simple:additions"/>(But now I am informed there is a place
+of a late invention, which may be a pretty diverſion for a Melancholy man,
+<hi>viz.</hi> Corn-cutter to the <hi>Bagnia,</hi> I would ſome body had it,
+that the world might be quieter.) But it ſeems, the Gentlemans Conſcience
+lies that way; for he hath thruſt himſelf upon an<g ref="char:EOLhyphen"/>ſwering Seditious
+Libels, when the cauſe hath been in a manner yielded up for want of
+advocates, not (as he hopes to be ſaved) (<hi>p.</hi> 15.) for he muſt have
+ſomething like an Oath in his Papers) <hi>out of paſſion,</hi> and
+bitterneſs againſt any ſort of people; but out of an impulſe of
+Conſcience, and a ſenſe of duty, and all this you have his veracity for;
+he might have ſaid <hi>O fortunatam natam me conſule Romam,</hi> what a
+lucky time have we fal<g ref="char:EOLhyphen"/>len into, to have innocence and vertue, preſerved by
+ſuch a <hi>Da<g ref="char:EOLhyphen"/>niel,</hi> from the Tyranny and luſt of the wicked Elders!
+Now for a Gentleman to expoſe himſelf to daggers, and the rage of the
+wicked <hi>Fanaticks</hi> upon an officious account only, is a thing almoſt
+without parallel; he might though have remembred, that there were a great many
+abler Pens than his ſilent in the thing, of unqueſtionable principles too,
+which would not have been ſo, had the Government thought fit thoſe Libels
+fit for any other anſwer than a whipping Poſt, which may be ſup<g ref="char:EOLhyphen"/>poſed
+it did not, beauſe none commanded to undertake that province; but you never
+knew a Knight Errant ſtay for a Commiſſion, when the Damſel was in
+diſtreſs: this officious zeal of his may entitle him to a new name, for he
+may be called <hi>zeal of the land buſy,</hi> upon a juſter account than
+his in<g ref="char:EOLhyphen"/>genious Worſhip gives the name of <hi>dogrel</hi> to the Author of the
+anſwer of <hi>Cit</hi> and <hi>Bumpkin,</hi> which hath ſo much netled him;
+yet for reſpect or ſhortneſs ſake we'll <hi>Squire</hi> him as often as
+there is occaſion to mention him, and ſo by that name I'le take notice of
+him as occaſion ſerves. Now to the point deſigned, in an<g ref="char:EOLhyphen"/>ſwer to his
+<hi>Billingſgate</hi> paper, which is not at all to the purpoſe aimed at,
+for he anſwers by bits and patches, here a piece run down cauſe not
+ingeniouſly cited: he makes his marrying a young Lady, urged as an argument
+of his running the Plot into ridi<g ref="char:EOLhyphen"/>cule,<pb n="3" facs="tcp:151333:3"/>and bleſſening the
+Kings Evidence (a thing he can never get off on, for all his ieſting) but the
+<hi>Squire</hi> might remember, that that paſſage is only brought in as a
+<hi>reprimam</hi> amongſt o<g ref="char:EOLhyphen"/>thers upon him, for his damned Libel in Skeldry,
+(<hi>p.</hi> 3.) which he endeavours ſo much to defend: The ſtory of his
+being rebuked by the angry man of War, is only of the ſame nature, and not
+urged for any thing, but for a <hi>repartee,</hi> as a man may call it, up<g ref="char:EOLhyphen"/>on
+that infamous Libel, as will appear to any peruſer of the anſwer pretended
+to be anſwered: now he comes to his skel<g ref="char:EOLhyphen"/>dry. There is one of them, ſays
+he, ſays, that the print called Popery in Maskerade, <hi>is not ſo much a
+dumb narrative</hi> of what's paſt, as a Scheme of what by intimation is at
+preſent deſigned; would not a man think now, that the charge upon him of
+leſſening the Kings Evidence, and ſo fooliſhly circumſtanced by his
+marrying a young Wife, and this, not to be <hi>Sibb</hi> to one an<g ref="char:EOLhyphen"/>other, as
+being from ſeveral Authors, when as they both ariſe upon the ſame
+account; but his Methods are ſuch, as may entitle him to any thing our
+ingenuity: For is it any thing like that to utter ſo many Sophiſmes, or
+half truths in one page? But his readers being generally women, and
+conſulting but one ſide, are very impoſeable upon; in Book caſes, as
+all unthinking people are. Let's now examine how the <hi>Squire</hi> clears
+himſelf of the charge, that it is a Scheme of or
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> pretends is deſigned, and not
+at all Hiſtorical. He would fain wipe this matter off, becauſe of ſome
+ill Conſequences may happen in the caſe, and therefore does his endeavours
+to reduce mat<g ref="char:EOLhyphen"/>ters to a 1641. Head, which if he fail in, he yields himſelf to
+be a Libeller, becauſe he joyns iſſue whether Hiſtory or Projection, to
+prove it Hiſtorical; he ſays, a man in common juſtice ought rather to a
+bow it to be ſo for <hi>Iſaacs</hi> ſake than deny it for
+<hi>Muggletons;</hi> but this be in go but a Flower of Rhetorick, he paſſes
+off quickly land comes to his main argument that it is Hiſtorical, which he
+calls a manifeſt one, from a parcel of Verſes, which indeed does relate
+wholy to times paſt not worth mentioning, but what then: Though part be ſo,
+part is other<pb n="4" facs="tcp:151333:4"/>ways, for whoever heard in that age of
+<hi>Dick</hi> and <hi>Tom</hi> the anſwerers to his <hi>Cit</hi> and
+<hi>Bumpkin?</hi> A thing of Yeſterday, and alledged by <hi>Dogrel</hi> as
+the <hi>Squire</hi> calls the Author, and of <hi>T.</hi> the <hi>P.</hi> and
+<hi>C. C. B.</hi> to prove it a malicious intima<g ref="char:EOLhyphen"/>tion of a project, out of his
+ſingular good nature, now in deſignment; and though the preſence of
+<hi>Dick</hi> and <hi>Tom,</hi> as Seditious Libellers, be brought in as the
+main argument againſt the Hiſtoricalneſs, yet the <hi>Squire</hi>
+paſſes that by with<g ref="char:EOLhyphen"/>out the leaſt notice; but to defend his Scandalous
+way of abuſing all the late Petitioners, as well as one Act Parliament, he
+reduces all things to the Cabal of 1640. and 1641. as if <hi>Dick</hi> and
+<hi>Tom</hi> had any thing to do there, and then with a Scoff goes on to Dr.
+<hi>Oates</hi>'s Teſtimony, of the <hi>Jeſuites</hi> influencing and
+leading the Councils of the Schiſmaticks, as if he had any re<g ref="char:EOLhyphen"/>verence for the
+Gentleman; but the Doctor ought to forgive him, for upon occaſion he will
+uſe holy writ it ſelf at the ſame rate. Then the <hi>Squire</hi> falls
+foul upon <hi>Dogrel</hi> charging him with a Moonneſs, by way of queſtion,
+when <hi>Dogrel</hi> was ſo kind to him, <hi>Pag.</hi> 5. to help him to
+medicine for his Frenzy, which is a very unkind return by the <hi>Squire</hi>
+for that ſingular courteſie: now let's examine whether the Moonneſs be
+more due to <hi>Dogrel</hi> or the <hi>Squire.</hi> To draw an argument ſays
+the <hi>Squire</hi> for or againſt the Parliaments ſitting in 1680. from
+the villainous practices of 1641. is Mooniſh enough, as likewiſe it is that
+a Book ſhould be a Hiſtory of 40 years a go, from the names of ſome
+chiefly concerned in the Hiſtory born laſt week. Troth the <hi>Squire</hi>
+muſt to clean Straw ſhortly at this rate.</p>
+            <p>
+               <hi>P.</hi> 6. To defend his beſpattering the Loyal Gentry and
+Citizens with the names of <hi>Cit</hi> and <hi>Bumpkin,</hi> he has
+re<g ref="char:EOLhyphen"/>courſe to the Devils way of further blackning: he tells you of a company
+of Damn'd practices, which you have his own authority for, to get hands to the
+Petition, and it may be ſuppoſed if he could make any thing of that nature
+out, of his ſingular good will to the publick he would not have failed
+<pb n="5" facs="tcp:151333:4"/>of it, eſpecially when <hi>Dogrel</hi> had charged that
+upon him for<g ref="char:EOLhyphen"/>merly, but Truantly School-boys uſe to adjuſt one lye by
+ano<g ref="char:EOLhyphen"/>ther; ſo I ſee no reaſon for my belief of any ſuch thing, but think
+the <hi>Squire</hi> to be a man of happy invention that way.</p>
+            <p>
+               <hi>P.</hi> 7. Then the <hi>Squire</hi> goes on to defend the
+charge of leſſening Doctor <hi>Oates</hi>'s Narrative of the Plot, by his
+old way of Scoffing off thoſe matters.</p>
+            <p>From this, and many others I find that though this <hi>Dogrel</hi>
+Raskal be inconſiderable, yet the <hi>Squire</hi> thinks fit to make his
+defence againſt him, and ſometimes but meeterly, as when <hi>Dogrel</hi>
+inſinuates a charge of Gaming upon him; he owns it and ſneakingly ſays he
+hath not play'd at Cards this Twelve month. Such like defence a wiſe Lord of
+this Nation made for his Miſs; The ſtory lies thus: A Lord and the Lady his
+Miſs be<g ref="char:EOLhyphen"/>ing ſtopt in their Coach by ſome troubleſome Carts, cryed out
+it is my Lord of — I care not, ſayes a rude Raskal, for my Lord — nor his Whores neither. What ſhe hath been, ſays the Lord, I'le not ſay,
+but I aſſure you ſhe is honeſt now. Thus the <hi>Squire</hi> goes to
+clear his mutinying againſt the government when out of imploy, to clear that
+charge he ſays he was more a Prophet than a libeller as he ſays, and refers
+the reader to the Pamphlet, as if any body would give them<g ref="char:EOLhyphen"/>ſelves that
+trouble about him, who might if he had thought fit to have inſerted that
+clearing paſſage, and would no doubt had it been true. Then he goes to
+defend the honour of his late place, <hi>viz.</hi> of Licenſing Books, as if
+any body had defamed it, though he is forced to ſhuffle for a defence in the
+execu<g ref="char:EOLhyphen"/>tion of it, for being charged by <hi>Dogrel</hi> for Licenſing
+<hi>humane reaſon,</hi> he grants it, but under ſuch circumſtances as
+will make any man excuſable before the greateſt Juſticer in the world;
+for he ſays, he did it unread, which upon peruſal he would not have done.
+But indeed it was overlookt by ſome-body before. Now good Mr. <hi>Squire</hi>
+the difference? Your worſhip to Licenſe without looking over, your fees
+only, as may be ſuppoſed, reſpected, and people to print<pb n="6" facs="tcp:151333:5"/>at adventure? for no book of more pernicious conſequence, has come
+out during that adminiſtration. But Mr. <hi>L' Eſtrange</hi> is an honeſt
+fellow as the world goes now, as he ſays himſelf (p. <hi>ult.</hi>) ſo no
+more grumbling in this caſe; but he ſayes there fell no fire nor
+brimſtone upon it, and <hi>Whit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hal</hi> ſtood where it did. I know <hi>Doggrels</hi> mind in that
+point, he ſwears it would be juſt ſo if ſome body was hang'd.</p>
+            <p>Now after the Squire hath given as many ſcurrilous
+expreſ<g ref="char:EOLhyphen"/>ſions as would turn a queaſie ſtomach about his <hi>Cit</hi> and
+<hi>Bumkin,</hi> he tells you to juſtifie his rayling againſt
+<hi>Doggrell</hi> as well as truth, that ſeveral models of petitions
+expoſed in print, inſiſted upon the Parliaments ſitting as long as they
+plea<g ref="char:EOLhyphen"/>ſed, he might have done well to have produced one; For no body can think
+he can conceal any thing of that nature, until then we muſt believe all to be
+a ſtaff of his own.</p>
+            <p>
+               <hi>P.</hi> 9. But now <hi>Doggrell</hi> look to thy ſelf; for
+the Squire comes furiouſly upon thee: but I believe it will be his care, as
+it was with a fooliſh Parſon, who was railing without ſenſe or man<g ref="char:EOLhyphen"/>ners
+on the Pope, Ile lay a Groat on the Pope ſide ſays a ſtranger, and put an
+end to the rapture: Now he charges <hi>Doggrell</hi> to be mad for crying
+Raſcally Politick, raskally Pickthank, ſycophantly knave, <hi>&amp;c.</hi>
+Now the occaſion is thus, for the Squire ſcorns to do any man in that
+caſe right. <hi>Tom</hi> the Piper one of the Dialogiſts giving an account
+of our late warrs, ſays they proceeded in ſome meaſure from Raskally
+politicks, preſſing both ſides to extremity, and fomenting all
+differences into the bargain: but <hi>Doggrell</hi> hopes to ſee a 1000
+ſuch Raskally Pickthanks hanged before any thing of that nature happen again.
+Now what harm is in all this?</p>
+            <p>Then <hi>Doggrell</hi> is charged with raving again, becauſe he
+tells of ranging the petitions of trying the Lords in the <hi>Tower,</hi> with
+mutinous, and ſeditious ones, as an argument in ſome mens eſteem of equal
+guilt: but this he comes very well off in, for he fairly tells us, that thoſe
+5 petitions, one againſt the <hi>Lords<pb n="7" facs="tcp:151333:5"/>in the Tower,</hi>
+another <hi>for the ſitting of the Parliament, till they had gone through
+with what they had to do,</hi>
+            </p>
+            <p>3. <hi>For taking</hi> away <hi>the Biſhops votes,</hi>
+            </p>
+            <p>4. <hi>Removal of Evil Councellors,</hi>
+            </p>
+            <p>5. Putting the Militia into ſafe hands, are all without any
+intimation, or charge of crime, that now muſt be fallacious; for every body
+that knows any thing, muſt know that all petitions of that nature but the
+firſt, though never ſo modeſtly offered, are ſeditious if not
+treaſonable. Then he falls upon poor <hi>Doggrel</hi> for taking it ill that
+the City ſhould be reflected upon as ill affected, and not writing againſt
+the appeal from the countrey to the city, as if writing of pamphlets were every
+mans duty: but the <hi>Squire</hi> to mend all comes off very prettily from his
+charge of per<g ref="char:EOLhyphen"/>petual clamouring upon the Presbyterians for 1641. And
+paſ<g ref="char:EOLhyphen"/>ſing by the Iriſh rebellion by ſaying, it is juſt as if <hi>a man
+ſhould quarrel another that is</hi> intent <hi>upon the theme of
+Conventi<g ref="char:EOLhyphen"/>cles</hi> for not writing the hiſtory of <hi>Japan;</hi> as if the
+matters of thoſe rebels now in a freſh conſpiracy as may be reaſonably
+believed by any but of an extraordinary ſcull, were as forreign to our
+concerns as the affairs of <hi>Japan,</hi> but it is his nature to ſlubber
+off all things that may reflect upon Popery ſtill at that rate.</p>
+            <p>But in page the 10. he humms it off, when he tells us what
+dangerous rogues the ſchiſmaticks are, and refers us to a drunken and
+tumultuous meeting in <hi>Eſſex</hi> at an election, of which there is no
+record extant, and ſo believable at pleaſure; but his aver<g ref="char:EOLhyphen"/>ments are
+commonly ſo authorized, that if <hi>Doctor Oates</hi>'s had not been
+otherwiſe, I ſhould have been as willing to have ſham'd it away as any
+body.</p>
+            <p>Then the Gentleman falls upon poor <hi>Doggrel</hi> for his
+kind<g ref="char:EOLhyphen"/>neſs to that party in ſaying truth, <hi>that they aſſerted the
+Kings intereſt in the loweſt ebb, and that they were the ſecond cauſe
+of his Majeſties reſtauration;</hi> for no body can deny, but that the
+Scots under Duke <hi>Hamilton,</hi> and Sir G. <hi>Booth</hi> and his party
+undertook a noble deſign, though it failed in the end,<pb n="8" facs="tcp:151333:6"/>but I
+aſſure that learned Gentleman, that the Royal party was left out, not of
+deſignment, but as there was no occaſion to ſpeak of it; for if
+<hi>Doggrel</hi> be the man I think on, he is as much a Roy<g ref="char:EOLhyphen"/>aliſt and ſon
+of the Church, as his mighty Antagoniſt, and hath run through as many
+priſons for that cauſe as moſt of his circumſtances; and I am ſure
+his anſwering <hi>Cit</hi> and <hi>Bump<g ref="char:EOLhyphen"/>kin,</hi> was not the reſult of any
+diſloyalty, but only to lay an unknown perſon open, who by his peſtilent
+inſinuations had endeavoured to provoke ſo conſiderable a number of men,
+as are comprehended in that paper; and I dare ſay he is very ſorry, the
+authour proves to be Mr. <hi>L'eſtrange,</hi> or any body of loyal
+perſwaſion who I wonder ſhould run down <hi>Doggrel</hi> for his meally
+mouthed way of covering the late rebellion under the gentle term of deviation,
+and then call him brute, and what not, for it, when Mr. <hi>L'eſtrange</hi>
+may call to mind, if his Pickeering againſt the Plot have not made him forget
+the method of prayer, that the greateſt ſins in<g ref="char:EOLhyphen"/>cident to mankind, are
+comprehended by the Church, under the ſoft expreſſion, of <hi>erring, and
+ſtraying</hi> from the ways of God, which is ſynonymous to
+<hi>deviation.</hi> Then the Gentleman falls to railing againſt the
+Parliament that diſſolved themſelves in order to the ſettlement of the
+nation, a thing as foreign to the matter deſigned as it is to good manners,
+conſidering how inſtrumental they <hi>viz.</hi> the major part were.</p>
+            <p>Then the learned Gentleman clears himſelf of writing the loyal
+intelligence, if he ſay true, for his credit is now in the wane, he hath but
+the luck to father other folks children, a fate ſometimes incident upon a
+married ſtate, when a young wife is in the caſe. Then he falls to picking
+out dangerous matters from a paper of verſes in <hi>Denhams</hi> Sophy, and
+from ſome fatal end of ſome unfortunate Princes, which he reſolves into
+this great treaſonable charge at laſt, that <hi>Doggrel</hi> had a
+myſtery in his meaning, and ſo leaves him to expound it himſelf, a very
+kind ex<g ref="char:EOLhyphen"/>preſſion conſidering the charge page 12. but within two lines he
+claws poor <hi>Doggrel</hi> off, and tells us that <hi>His Libel is
+<pb n="9" facs="tcp:151333:6"/>the venome, and malice of ſeveral others drawn into
+one,</hi> with lyes, ſaucineſs and ribaldry of his own. The gentleman I
+perceive foams, for I cannot tell what he means by thoſe words, but men that
+are of great fame may call any thing by any name they pleaſe without
+controul; but I wonder thoſe ſmall things, if there were ſuch, ſhould
+be ſo ſeverely reproved, when his own profane ſwearing, and ſcurrilous
+ſcoffing at holy language, is conſidered in his learned dialogue, a thing
+animadverted on by <hi>Doggrel,</hi> though not replied to by the
+<hi>Squire.</hi> Then he makes a ſally for a jeſt, allows himſelf to be a
+fidler, to call poor <hi>Doggrel</hi> fool into the bargain, a thing forced in
+to ſhew his wit, which is ſo mean too, as would ſcarcely become the
+grandeur of a Sophiſter; for <hi>Doggrel</hi> never fixed that name upon him.
+I have now done with the gentleman, who has now taken his leave of
+<hi>Doggrel,</hi> and continues the reſt of his diſ<g ref="char:EOLhyphen"/>courſe in an harangue
+of his own incomparable pen, and loyalty, and I think the gentleman has been
+like his neighbours for the latter, but if for the former, I'le conclude with a
+ſtory. A certain great Lady in the world was as indefatigable a writer in
+Philo<g ref="char:EOLhyphen"/>ſophicall, as the <hi>Squire</hi> in Polemical diſcourſe; ſo one
+of her retinue commending her for employing her time in thoſe noble
+ſtudies, when other Ladies waſted theirs in ſome trifling way or other:
+There is but one thing, added he, to make your Ladyſhip compleat. What, that
+replied the Lady, being well pleaſed with the preamble. Even, ſays the
+Gentleman, burn on the Saturday night, what you wrote the week before. And
+truly if the <hi>Squire</hi> would follow that method, it would be a great
+quietneſs to man<g ref="char:EOLhyphen"/>kind, and ſo I reſt</p>
+            <closer>
+               <signed>Your humble ſervant, <hi>Philo.
+Doggrel.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:151333:7"/>
+            <pb facs="tcp:151333:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
